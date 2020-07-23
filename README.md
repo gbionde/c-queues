@@ -2,7 +2,7 @@
 <br/><br/>
 
 # PT-BR Sobre 
-Este repositório contém as seguintes estruturas de dados desenvolvidas na Linguagem C, utilizando vetores:
+Este repositório contém as seguintes estruturas de dados desenvolvidas na Linguagem C/C++, utilizando vetores:
 <br/> 
 1. Pilha, <br/> 
 2. Pilhas Múltiplas (Duas pilhas em um único vetor),<br/>
@@ -14,7 +14,7 @@ Os comentários estão escritos em PT-BR.<br/>
 <br/><br/>
 
 # EN-US About
-This repository contains the following data structures, developed using C language and arrays:
+This repository contains the following data structures, developed using C/C++ language and arrays:
 <br/>
 1. Stack,<br/>
 2. Multiple Stacks (Two stacks in the same array),<br/>
