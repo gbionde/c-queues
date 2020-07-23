@@ -26,6 +26,5 @@ The comments were written in Portuguese - Brazil.
 <br/>
 
 # Contact
-<br/>
 Found an Error? Message me! <br/>
 Encontrou um erro? Me contate!
