@@ -14,7 +14,7 @@ Os comentários estão escritos em PT-BR.<br/>
 <br/><br/>
 
 # EN-US About
-This repository contains the following data structures, developed w/ C language and arrays:
+This repository contains the following data structures, developed using C language and arrays:
 <br/>
 1. Stack,<br/>
 2. Multiple Stacks (Two stacks in the same array),<br/>
