@@ -11,6 +11,7 @@ Este repositório contém as seguintes estruturas de dados desenvolvidas na Ling
 5. Fila com prioridade.<br/>
 <br/>
 Os comentários estão escritos em PT-BR.<br/>
+Os algoritmos base para manipulação das estruturas de dados foram desenvolvidos em sala de aula.
 <br/><br/>
 
 # EN-US About
@@ -22,8 +23,8 @@ This repository contains the following data structures, developed using C/C++ la
 4. Circular Queue,<br/>
 5. Priority Queue.<br/>
 <br/>
-The comments were written in Portuguese - Brazil.
-<br/>
+The comments were written in Portuguese - Brazil.<br/>
+Base data structures algorithms were developed while in classroom. <br/><br/>
 
 # Contact
 Found an Error? Message me! <br/>
