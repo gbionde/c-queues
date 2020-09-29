@@ -1,4 +1,4 @@
-# Data Structures - Pt. 1: Stacks and Queues.
+# Data Structures - Pt. 1: Stacks and Queues
 <br/><br/>
 
 # Related Links
