@@ -1,18 +1,9 @@
-# Estruturas de Dados - Pt. 1: Básicas
+# Data Structures - Pt. 2: Stacks and Queues.
 <br/><br/>
 
-# PT-BR Sobre 
-Este repositório contém as seguintes estruturas de dados desenvolvidas na Linguagem C/C++, utilizando vetores:
-<br/> 
-1. Pilha, <br/> 
-2. Pilhas Múltiplas (Duas pilhas em um único vetor),<br/>
-3. Fila,<br/>
-4. Fila circular,<br/>
-5. Fila com prioridade.<br/>
-<br/>
-Os comentários estão escritos em PT-BR.<br/>
-Os algoritmos base para manipulação das estruturas de dados foram desenvolvidos em sala de aula.
-<br/><br/>
+# Related
+**PT 3{Generalized Lists, Trees}:** https://github.com/GFBionde/data-structures-pt3
+<br/>**PT 2{Linked Lists}:** https://github.com/GFBionde/data-structures-pt2
 
 # EN-US About
 This repository contains the following data structures, developed using C/C++ language and arrays:
@@ -26,3 +17,16 @@ This repository contains the following data structures, developed using C/C++ la
 The comments were written in Portuguese - Brazil.<br/>
 Base data structures algorithms were developed while in classroom. <br/><br/>
 
+
+# PT-BR Sobre 
+Este repositório contém as seguintes estruturas de dados desenvolvidas na Linguagem C/C++, utilizando vetores:
+<br/> 
+1. Pilha, <br/> 
+2. Pilhas Múltiplas (Duas pilhas em um único vetor),<br/>
+3. Fila,<br/>
+4. Fila circular,<br/>
+5. Fila com prioridade.<br/>
+<br/>
+Os comentários estão escritos em PT-BR.<br/>
+Os algoritmos base para manipulação das estruturas de dados foram desenvolvidos em sala de aula.
+<br/><br/>
