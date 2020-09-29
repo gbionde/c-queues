@@ -1,7 +1,7 @@
 # Data Structures - Pt. 2: Stacks and Queues.
 <br/><br/>
 
-# Related
+# Related Links
 **PT 3{Generalized Lists, Trees}:** https://github.com/GFBionde/data-structures-pt3
 <br/>**PT 2{Linked Lists}:** https://github.com/GFBionde/data-structures-pt2
 
