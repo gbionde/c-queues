@@ -1,11 +1,9 @@
 # Data Structures - Pt. 1: Stacks and Queues
-<br/><br/>
-
-# Related Links
+## Related Links
 **PT 2{Linked Lists}:** https://github.com/GFBionde/data-structures-pt2
 <br/>**PT 3{Generalized Lists, Trees}:** https://github.com/GFBionde/data-structures-pt3
 
-# EN-US About
+## EN-US About
 This repository contains the following data structures, developed using C/C++ language and arrays:
 <br/>
 1. Stack,<br/>
@@ -18,7 +16,7 @@ The comments were written in Portuguese - Brazil.<br/>
 Base data structures algorithms were developed while in classroom. <br/><br/>
 
 
-# PT-BR Sobre 
+## PT-BR Sobre 
 Este repositório contém as seguintes estruturas de dados desenvolvidas na Linguagem C/C++, utilizando vetores:
 <br/> 
 1. Pilha, <br/> 
